@@ -2,6 +2,8 @@
 
 ### **红队武器库**
 
+⚠️此项目同步至：https://forum.ywhack.com/bountytips.php?redteam
+
 > 信息收集类
 
 * [2021.01.19] - [EHole(棱洞)-红队重点攻击系统指纹探测工具](https://github.com/EdgeSecurityTeam/EHole)
