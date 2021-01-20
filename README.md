@@ -1,8 +1,8 @@
-# Red Team Attack:
+# Red Team Attack
+
+⚠️此项目同步至：https://forum.ywhack.com/bountytips.php?redteam   🙏欢迎提Issues进行推荐!
 
 ### **红队武器库**
-
-⚠️此项目同步至：https://forum.ywhack.com/bountytips.php?redteam
 
 > 信息收集类
 
